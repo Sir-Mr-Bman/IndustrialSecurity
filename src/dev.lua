@@ -17,6 +17,7 @@ term.write(">: ")
 local input = read("*")
 local h = fs.open("/.bman/pass/pass", "r")
 local stringy = h.readAll()
+h.close()
 if input == stringy then
   --Terminate shell.
   term.setBackgroundColor(colors.black)
