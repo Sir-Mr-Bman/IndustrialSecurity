@@ -1,9 +1,0 @@
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/admin.lua
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/change.lua
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/dev.lua
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/door.lua
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/opt.lua
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/pass.lua
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/rs.lua
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/side.lua
-https://raw.githubusercontent.com/Sir-Mr-Bman/IndustrialSecurity/master/src/startup.lua
